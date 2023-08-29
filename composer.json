@@ -1,0 +1,16 @@
+{
+    "name": "jsmart/install",
+    "description": "JSmart CMS Installer",
+    "keywords": ["jsmart", "cms", "install"],
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Vadim Shestakov",
+            "email": "shestakov2103@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0.8"
+    }
+}
